@@ -18,6 +18,10 @@
   h1{
     font-family: 'M PLUS 1p','ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', メイリオ, Meiryo, 'ＭＳ Ｐゴシック', sans-serif;
   }
+  .cam p{
+    font-family: 'M PLUS 1p','ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', メイリオ, Meiryo, 'ＭＳ Ｐゴシック', sans-serif;
+    font-size: 30px;
+  }
   h3{
     background-color: #2196d2;
     color: white;
@@ -95,6 +99,10 @@
   h1{
     font-size: 30px;
     font-family: 'M PLUS 1p','ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', メイリオ, Meiryo, 'ＭＳ Ｐゴシック', sans-serif;
+  }
+  .cam p{
+    font-family: 'M PLUS 1p','ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', メイリオ, Meiryo, 'ＭＳ Ｐゴシック', sans-serif;
+    font-size: 30px;
   }
   h2{
     font-size: 25px;
@@ -176,6 +184,10 @@
   h1{
     font-size: 20px;
     font-family: 'M PLUS 1p','ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', メイリオ, Meiryo, 'ＭＳ Ｐゴシック', sans-serif;
+  }
+  .cam p{
+    font-family: 'M PLUS 1p','ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', メイリオ, Meiryo, 'ＭＳ Ｐゴシック', sans-serif;
+    font-size: 20px;
   }
   h2{
     font-size: 16px;
