@@ -7,18 +7,21 @@
     font-weight: bold;
   }
   .header-text {
-    background-color: #f1f3f4;
+    background-color: white;
     margin-left: 100px;
     margin-right: 100px;
     filter: drop-shadow(0 0 4px rgba(0, 0, 0, 0.3));
+    font-size: 23px;
   }
   body {
     font-family: "Noto Serif JP",Helvetica,serif;
+    background-image: url("../assets/img/back.png");
+    background-size: cover;
   }
   h1{
     font-family: 'M PLUS 1p','ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', メイリオ, Meiryo, 'ＭＳ Ｐゴシック', sans-serif;
   }
-  .cam p{
+  h2 {
     font-family: 'M PLUS 1p','ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', メイリオ, Meiryo, 'ＭＳ Ｐゴシック', sans-serif;
     font-size: 30px;
   }
@@ -39,9 +42,6 @@
   .sonic img{
     width: 50%;
   }
-  .fish img{
-    width: 40%;
-  }
   .btn img{
     width: 40%;
   }
@@ -50,29 +50,10 @@
     margin-bottom: 70px;
     text-align: center;
   }
-  footer {
-    margin-top: 50px;
-    text-align: center;
-  }
-  footer h4{
-    margin-left: 100px;
-    margin-right: 100px;
-  }
-  footer h5{
-    margin-left: 100px;
-    margin-right: 100px;
-  }
-  .award img{
-    width: 8%;
-  }
-  .footer-at{
-    color: #24607e;
-    font-size: 80%;
-    font-weight: 500;
-  }
   .main-content{
     margin-left: 100px;
     margin-right: 100px;
+    background-color: white;
   }
   .main-content p{
     margin-left: 50px;
@@ -88,24 +69,24 @@
     font-weight: bold;
   }
   .header-text {
-    background-color: #f1f3f4;
+    background-color: white;
     margin-left: 70px;
     margin-right: 70px;
     filter: drop-shadow(0 0 4px rgba(0, 0, 0, 0.3));
+    font-size: 23px;
   }
   body{
       font-family: "Noto Serif JP",Helvetica,serif;
+      background-image: url("../assets/img/back.png");
+      background-size: cover;
   }
   h1{
     font-size: 30px;
     font-family: 'M PLUS 1p','ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', メイリオ, Meiryo, 'ＭＳ Ｐゴシック', sans-serif;
   }
-  .cam p{
-    font-family: 'M PLUS 1p','ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', メイリオ, Meiryo, 'ＭＳ Ｐゴシック', sans-serif;
-    font-size: 30px;
-  }
   h2{
     font-size: 25px;
+    font-family: 'M PLUS 1p','ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', メイリオ, Meiryo, 'ＭＳ Ｐゴシック', sans-serif;
   }
   h3{
     background-color: #2196d2;
@@ -124,11 +105,8 @@
   .sonic img{
     width: 60%;
   }
-  .fish img{
-    width: 50%;
-  }
   p{
-    font-size: 17px;
+    font-size: 20px;
   }
   .btn01{
     margin-top: 50px;
@@ -138,28 +116,10 @@
   .btn img{
     width: 60%;
   }
-  footer {
-    text-align: center;
-  }
-  footer h4{
-    margin-left: 70px;
-    margin-right: 70px;
-  }
-  footer h5{
-    margin-left: 70px;
-    margin-right: 70px;
-  }
-  .award img{
-    width: 20%;
-  }
-  .footer-at{
-    color: #24607e;
-    font-size: 70%;
-    font-weight: 500;
-  }
   .main-content{
     margin-left: 80px;
     margin-right: 80px;
+    background-color: white;
   }
   .main-content p{
     margin-left: 30px;
@@ -175,22 +135,21 @@
     font-weight: bold;
   }
   .header-text {
-    background-color: #f1f3f4;
+    background-color: white;
     filter: drop-shadow(0 0 4px rgba(0, 0, 0, 0.3));
   }
   body{
       font-family: "Noto Serif JP",Helvetica,serif;
+      background-image: url("../assets/img/back.png");
+      background-size: cover;
   }
   h1{
     font-size: 20px;
     font-family: 'M PLUS 1p','ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', メイリオ, Meiryo, 'ＭＳ Ｐゴシック', sans-serif;
   }
-  .cam p{
-    font-family: 'M PLUS 1p','ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', メイリオ, Meiryo, 'ＭＳ Ｐゴシック', sans-serif;
-    font-size: 20px;
-  }
   h2{
     font-size: 16px;
+    font-family: 'M PLUS 1p','ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', メイリオ, Meiryo, 'ＭＳ Ｐゴシック', sans-serif;
   }
   h3{
     font-size: 15px;
@@ -208,12 +167,12 @@
     background-color: #d4dbde;
   }
   p{
-    font-size: 12px;
+    font-size: 13px;
+  }
+  .main-content {
+    background-color: white;
   }
   .sonic img{
-    width: 90%;
-  }
-  .fish img{
     width: 90%;
   }
   .btn01{
@@ -223,16 +182,5 @@
   }
   .btn img{
     width: 70%;
-  }
-  footer {
-    text-align: center;
-  }
-  .award img{
-    width: 20%;
-  }
-  .footer-at{
-    color: #24607e;
-    font-size: 60%;
-    font-weight: 500;
   }
 }
