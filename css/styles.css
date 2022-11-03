@@ -16,7 +16,7 @@
   body {
     font-family: "Noto Serif JP",Helvetica,serif;
     background-image: url("../assets/img/back1.jpg");
-    background-size: cover;
+    background-size: contain;
   }
   h1{
     font-family: 'M PLUS 1p','ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', メイリオ, Meiryo, 'ＭＳ Ｐゴシック', sans-serif;
